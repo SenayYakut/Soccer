@@ -9,13 +9,13 @@ Design the site using CSS Visual Rules.
 
 Install the project locally
 ```bash
-
+git clone 
 ```
  
 ## Usage
 
 ```python
-
+https://senayyakut.github.io/Soccer/
 
 ```
 
